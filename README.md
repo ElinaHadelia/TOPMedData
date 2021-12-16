@@ -1,1 +1,1 @@
-# manhattanPlots-
+# Plots for analyzing TOPMed data
